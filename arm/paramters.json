@@ -81,7 +81,7 @@
             "value": "azureuser"
         },
         "adminPassword": {
-            "value": null
+            "value": "AKSJHD&*^%)(987"
         },
         "patchMode": {
             "value": "AutomaticByPlatform"
